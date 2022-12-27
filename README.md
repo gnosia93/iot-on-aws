@@ -9,3 +9,8 @@
 
 * [Collecting, organizing, monitoring, and analyzing industrial data at scale using AWS IoT SiteWise (Part 1)
 ](https://aws.amazon.com/blogs/iot/collecting-organizing-monitoring-and-analyzing-industrial-data-at-scale-using-aws-iot-sitewise-part-1/)
+
+*
+
+* [Collecting, organizing, monitoring, and analyzing industrial data at scale using AWS IoT SiteWise (Part 3)
+](https://aws.amazon.com/blogs/iot/collecting-organizing-monitoring-and-analyzing-industrial-data-at-scale-using-aws-iot-sitewise-part-3/)
